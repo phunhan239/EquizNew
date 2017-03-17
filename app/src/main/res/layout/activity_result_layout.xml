@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/containerResultActivity"
+    style="@style/ll_resultlayout_style">
+
+    <TextView
+        android:id="@+id/tvYourScore"
+        style="@style/tv_yourscore_style" />
+
+    <TextView
+        android:id="@+id/tvYourScoreNumber"
+        style="@style/tv_scorenumber_style" />
+
+    <LinearLayout
+        android:id="@+id/llRating"
+        style="@style/ll_ratingbar_style">
+
+        <android.support.v7.widget.AppCompatRatingBar
+            android:id="@+id/ratingBar"
+            style="@style/ratingBar_score_style" />
+
+        <TextView
+            android:id="@+id/tvNumberCorrectAnswer"
+            style="@style/tv_numbercorrectanswer_style" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlCloseButton"
+        style="@style/rl_closebutton_style">
+
+        <TextView
+            android:id="@+id/tvCloseButton"
+            style="@style/tv_closebutton_style" />
+    </RelativeLayout>
+</LinearLayout>

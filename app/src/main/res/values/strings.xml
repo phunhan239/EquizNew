@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">EquizLocal</string>
+    <string-array name="questions">
+
+        <item>1. CAD is the abbreviation of……</item>
+        <item>2. When you insert a blank disk intoa disk drive, it must be …before information can be recorded onto it</item>
+        <item>3. Hard disks work in the same way as floppies. But they have important advantages:</item>
+        <item>4. You …. write anything onto a CDROM disk</item>
+        <item>5. Optical disks can store information at much higher …. than magnetic disk</item>
+        <item>6. Acronym for local area network</item>
+        <item>7.In Tour de France, workstations in the race buses provide the timing system and give ….. timing information to TV stations.</item>
+        <item>8. Which are used in the drugdetecting tests for competitors?</item>
+        <item>9. The most influential component in the computer is ….. </item>
+        <item>10. A standard computer systemconsist of …. main section</item>
+
+    </string-array>
+
+    <string-array name="correctAnswers">
+        <item>C</item>
+        <item>A</item>
+        <item>D</item>
+        <item>A</item>
+        <item>B</item>
+        <item>D</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="answers">
+        <item>a. Computer Auto Design</item>
+        <item>b. Communication Aided Design</item>
+        <item>c. Computer Aided Design</item>
+        <item>d. Computer Auto Drawing</item>
+
+        <item>a. Formatted</item>
+        <item>b. Spined at high speed</item>
+        <item>c. Clear all data</item>
+        <item>d. A, b, and c</item>
+
+        <item>a. They can hold much moredata</item>
+        <item>b. Thay can spin at higher speed </item>
+        <item>c. They can store and retrieve information much faster than floppies</item>
+        <item>d. A, b, and c</item>
+
+        <item>a. can not</item>
+        <item>b. should not</item>
+        <item>c. can</item>
+        <item>d. should</item>
+
+        <item>a. Density</item>
+        <item>b. Densities</item>
+        <item>c. Quantity</item>
+        <item>d. Quantities</item>
+
+        <item>a. LOAN</item>
+        <item>b. LOARN</item>
+        <item>c. LNET</item>
+        <item>d. LAN</item>
+
+        <item>a. Up to the minute</item>
+        <item>b. Up to the date</item>
+        <item>c. Up to date</item>
+        <item>d. Up to the hour</item>
+
+        <item>a. word processors</item>
+        <item>b. computer database</item>
+        <item>c. automatic cash dispensers</item>
+        <item>d. computer technology</item>
+
+        <item>a. The main memory</item>
+        <item>b. The peripherals</item>
+        <item>c. The CPU</item>
+        <item>d. Software</item>
+
+        <item>a. Four</item>
+        <item>b. Three</item>
+        <item>c. Two</item>
+        <item>d. One</item>
+
+    </string-array>
+
+    <string name="button.text.thitracnghiem">Kiểm tra</string>
+    <string name="button.text.learn">Học</string>
+    <string name="button.text.dangxuat">Đăng xuất</string>
+    <string name="textview.text.message_dialog_timeout">Hết giờ</string>
+    <string name="textview.text.copyright">Copyright@ Văn Phú Nhân</string>
+    <string name="textview.text.yourscore">Your Score</string>
+    <string name="textview.text.socautraloidung">Bạn đã trả lời đúng 10/10</string>
+    <string name="fab.text.dungthi">Pause</string>
+    <string name="textview.text.tendangnhap">Tên đăng nhập</string>
+    <string name="textview.text.email">Thư điện tử</string>
+    <string name="textview.text.matkhau">Mật khẩu</string>
+    <string name="textview.text.nhaplaimatkhau">Nhập lại mật khẩu</string>
+    <string name="button.text.dangnhap">Đăng nhập</string>
+    <string name="button.text.dangki">Đăng kí</string>
+</resources>

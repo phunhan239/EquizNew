@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llItemListView"
+    style="@style/listview_answer_theme">
+
+    <TextView
+        android:id="@+id/tvAbcd"
+        style="@style/textview_abcd" />
+
+    <TextView
+        android:id="@+id/tvAnswerItem"
+        style="@style/textview_item_list_answer" />
+</LinearLayout>

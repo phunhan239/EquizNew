@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="editTextColor">#ffffff</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColorSecondary">#ffffff</color>
+    <color name="textColorTertiary">#ffffff</color>
+    <color name="textColorPrimaryInverse">#ffffff</color>
+    <color name="textColorSecondaryInverse">#ffffff</color>
+    <color name="textColorTertiaryInverse">#ffffff</color>
+    <color name="textColorPrimaryDisableOnly">#ffffff</color>
+    <color name="textColorTextViewTotalQuestion">#000000</color>
+    <color name="textColorTextViewCurrentQuestion">#000000</color>
+    <color name="textColorTextViewWatch">#000000</color>
+    <color name="textColorTextViewAbcd">#000000</color>
+    <color name="textColorTextViewScoreNumber">#000000</color>
+    <color name="textColorTextViewMessageDialog">#000000</color>
+    <color name="textColorTextViewCopyright">#000000</color>
+    <color name="textColorTextViewSocautraloidung">#000000</color>
+    <color name="textColorTextViewQuestionContent">#e84a5f</color>
+    <color name="textColorTextViewItemListAnswer">#e84a5f</color>
+    <color name="textColorTextViewYourScoreText">#ff847c</color>
+    <color name="backgroundColorButtonPauseExamNormal">#ff847c</color>
+    <color name="backgroundColorButtonPauseExamChanged">#e84a5f</color>
+</resources>

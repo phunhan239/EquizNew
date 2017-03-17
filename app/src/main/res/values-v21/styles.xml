@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="ratingBar_score_style">
+                <item name="android:progressBackgroundTint">#ff0f08</item>
+                <item name="android:progressTint">#0f08f9</item>
+                <item name="android:layout_width">wrap_content</item>
+                <item name="android:layout_height">wrap_content</item>
+                <item name="android:numStars">5</item>
+                <item name="android:rating">2</item>
+                <item name="android:layout_gravity">center</item>
+                <item name="android:isIndicator">true</item>
+        </style>
+</resources>

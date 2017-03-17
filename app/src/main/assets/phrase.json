@@ -1,0 +1,74 @@
+{
+  "phrases": [
+    {
+      "word": "operating system",
+      "vietnamese": "hệ điều hành",
+      "mean": "the software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.",
+      "example": "The other factor that will be important in achieving a broader market for smartphones will be the operating system .",
+      "sound": "sound/phrase/OperatingSystem.mp3"
+    },
+    {
+      "word": "PPP(Point-to-Point Protocol)",
+      "vietnamese": "Đây là một giao thức kết nối Internet tin cậy thông qua Modem",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/PPP.mp3"
+    },
+    {
+      "word": "Alphabetical catalog",
+      "vietnamese": "Danh mục chữ cái",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/AlphabeticalCatalog.mp3"
+    },
+    {
+      "word": "Alphanumeric data",
+      "vietnamese": "dữ liệu chữ số",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/AlphanumericData.mp3"
+    },
+    {
+      "word": "Authority work",
+      "vietnamese": "Công tác biên mục",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/AuthorityWork.mp3"
+    },
+    {
+      "word": "Broad classification",
+      "vietnamese": "Phân loại tổng quát",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/BroadClassification.mp3"
+    },
+    {
+      "word": "Chief source of information",
+      "vietnamese": "Nguồn thông tin chính",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/ChiefSourceOfInformation.mp3"
+    },
+    {
+      "word": "Cluster controller",
+      "vietnamese": "điều khiển cụm",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/ClusterController.mp3"
+    },
+    {
+      "word": "microprocessor",
+      "vietnamese": "bộ vi xử lý",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/Microprocessor.mp3"
+    },
+    {
+      "word": "Multi-User",
+      "vietnamese": "đa người dùng",
+      "mean": "",
+      "example": "",
+      "sound": "sound/phrase/MultiUser.mp3"
+    }
+  ]
+}

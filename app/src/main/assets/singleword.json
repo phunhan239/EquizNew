@@ -1,0 +1,293 @@
+{
+  "words": [
+    {
+      "word": "Accumulator",
+      "voice": "əˈkyo͞omyəˌlātər",
+      "vietnamese": "Tổng",
+      "mean": {
+        "noun": "a person or thing that accumulates things.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "storage battery,gatherer, collector",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "",
+      "sound": "sound/singleword/Accumulator.mp3"
+    },
+    {
+      "word": "Addition",
+      "voice": "əˈdiSHən",
+      "vietnamese": "Phép cộng",
+      "mean": {
+        "noun": "the action or process of adding something to something else.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "adding, incorporation, inclusion, introduction supplement, adjunct, addendum, adhesion, appendage, add-on, extra, attachment, rider, appurtenance accession        increase, gain        plus, summation        improver, add-on",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "Such a machine would be able to carry out complex operations using only the mechanism for addition .",
+      "sound": "sound/singleword/Addition.mp3"
+    },
+    {
+      "word": "Address",
+      "voice": "ˈaˌdres",
+      "vietnamese": "Địa chỉ",
+      "mean": {
+        "noun": "the particulars of the place where someone lives or an organization is situated.",
+        "verb": "write the name and address of the intended recipient on (an envelope, letter, or package).",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "inscription, house, speech, reference, savoir-faire, name and address",
+        "verb": "talk to, give a talk to, speak to, make a speech to, give a lecture to, lecture, hold forth to, preach to, give a sermon to, buttonhole, collar",
+        "adjective": ""
+      },
+      "example": "That way, when I address the ball, the leaf or patch of grass is still in my peripheral vision and can remind me where my target is.",
+      "sound": "sound/singleword/Address.mp3"
+    },
+    {
+      "word": "Appropriate",
+      "voice": "",
+      "vietnamese": "Thích hợp",
+      "mean": {
+        "noun": "",
+        "verb": "take (something) for one's own use, typically without the owner's permission.",
+        "adjective": "suitable or proper in the circumstances."
+      },
+      "synonym": {
+        "noun": "",
+        "verb": "seize, steal, plagiarize, allocate, capture, allow",
+        "adjective": "suitable"
+      },
+      "example": "",
+      "sound": "sound/singleword/Appropriate.mp3"
+    },
+    {
+      "word": "Arithmetic",
+      "voice": "",
+      "vietnamese": "toán học",
+      "mean": {
+        "noun": "the branch of mathematics dealing with the properties and manipulation of numbers.",
+        "verb": "",
+        "adjective": "of or relating to arithmetic."
+      },
+      "synonym": {
+        "noun": "",
+        "verb": "",
+        "adjective": "arithmetical"
+      },
+      "example": "Malthus suggested that the world's population, growing at a geometric rate, was increasing at a much faster rate than the world's food production, which only increased arithmetically .",
+      "sound": "sound/singleword/Arithmetic.mp3"
+    },
+    {
+      "word": "Capability",
+      "voice": "ˌkāpəˈbilitē",
+      "vietnamese": "khả năng",
+      "mean": {
+        "noun": "power or ability.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "ability, capacity, power, potential, competence, proficiency, adeptness, aptitude, faculty, wherewithal, experience, skill, skillfulness, talent, flair, know-how",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "",
+      "sound": "sound/singleword/Capability.mp3"
+    },
+    {
+      "word": "Circuit",
+      "voice": "ˈsərkət",
+      "vietnamese": "mạch",
+      "mean": {
+        "noun": "a roughly circular line, route, or movement that starts and finishes at the same place.",
+        "verb": "move all the way around (a place or thing).",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "track, racetrack, raceway, running track, course",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "",
+      "sound": "sound/singleword/Circuit.mp3"
+    },
+    {
+      "word": "Complex",
+      "voice": "",
+      "vietnamese": "phức tạp",
+      "mean": {
+        "noun": "a group of similar buildings or facilities on the same site.",
+        "verb": "make (an atom or compound) form a complex with another.",
+        "adjective": "consisting of many different and connected parts."
+      },
+      "synonym": {
+        "noun": "network, obsession, coordination compound, composite, building complex",
+        "verb": "",
+        "adjective": "complicated, compound"
+      },
+      "example": "Structural studies revealed that cullin serves as a bridge to bring together different components of the complex .",
+      "sound": "sound/singleword/Complex.mp3"
+    },
+    {
+      "word": "Component",
+      "voice": "kəmˈpōnənt",
+      "vietnamese": "thành phần",
+      "mean": {
+        "noun": "a part or element of a larger whole, especially a part of a machine or vehicle.",
+        "verb": "",
+        "adjective": "constituting part of a larger whole; constituent."
+      },
+      "synonym": {
+        "noun": "part, piece, bit, element, constituent, ingredient, building block, unit, module, section",
+        "verb": "",
+        "adjective": "constituent"
+      },
+      "example": "",
+      "sound": "sound/singleword/Component.mp3"
+    },
+    {
+      "word": "Computer",
+      "voice": "kəmˈpyo͞otər",
+      "vietnamese": "máy vi tính",
+      "mean": {
+        "noun": "an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "personal computer, PC, laptop, netbook, ultraportable, desktop, terminal, mainframe, Internet appliance, puter",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "Participants scan the barcodes of every product they buy using a hand-held computer at home.",
+      "sound": "sound/singleword/Computer.mp3"
+    },
+    {
+      "word": "Text",
+      "voice": "tekst",
+      "vietnamese": "Văn bản chỉ bao gồm ký tự",
+      "mean": {
+        "noun": "a book or other written or printed work, regarded in terms of its content rather than its physical form.",
+        "verb": "send a text message to.",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "book, words, textbook, passage, schoolbook",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "Hoffman and Reilly squeeze all the legitimate, and many illegitimate, laughs out of the text .",
+      "sound": "sound/singleword/Text.mp3"
+    },
+    {
+      "word": "Software",
+      "voice": "ˈsôftˌwe(ə)r",
+      "vietnamese": "phần mềm",
+      "mean": {
+        "noun": "the programs and other operating information used by a computer.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "software system, computer software, software package, package",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "The company develops software that mimics the human brain in the way that it works.",
+      "sound": "sound/singleword/Software.mp3"
+    },
+    {
+      "word": "Hardware",
+      "voice": "ˈhärdˌwe(ə)r",
+      "vietnamese": "phần cứng",
+      "mean": {
+        "noun": "tools, machinery, and other durable equipment.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "equipment, apparatus, gear, paraphernalia, tackle, kit, machinery, tools, articles, implements, instruments, appliances",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "Global politics shift, military hardware and strategies are tried and tested and new forms of protest emerge.",
+      "sound": "sound/singleword/Hardware.mp3"
+    },
+    {
+      "word": "Graphic",
+      "voice": "ˈgrafik",
+      "vietnamese": "đồ họa",
+      "mean": {
+        "noun": "a graphical item displayed on a screen or stored as data.",
+        "verb": "",
+        "adjective": "of or relating to visual art, especially involving drawing, engraving, or lettering."
+      },
+      "synonym": {
+        "noun": "picture, illustration, image, diagram, graph, chart, art, visual art",
+        "verb": "",
+        "adjective": "visual, vivid, lifelike, graphical"
+      },
+      "example": "I've been told my work has an Asian feel, perhaps because of the graphic style and brushwork.",
+      "sound": "sound/singleword/Graphic.mp3"
+    },
+    {
+      "word": "Storage",
+      "voice": "ˈstôrij",
+      "vietnamese": "lưu trữ",
+      "mean": {
+        "noun": "the action or method of storing something for future use.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "reposition, memory, depot",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "the chair can be folded flat for easy storage",
+      "sound": "sound/singleword/Storage.mp3"
+    },
+    {
+      "word": "Operation",
+      "voice": "ˌäpəˈrāSHən",
+      "vietnamese": "thao tác",
+      "mean": {
+        "noun": "the fact or condition of functioning or being active.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "functioning, management, surgery, action, business, procedure, surgical procedure, mathematical operation, military operation, process",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "cleaning the high windows is a bit of an operation",
+      "sound": "sound/singleword/Operation.mp3"
+    },
+    {
+      "word": "Memory",
+      "voice": "ˈmem(ə)rē",
+      "vietnamese": "bộ nhớ",
+      "mean": {
+        "noun": "the part of a computer in which data or program instructions can be stored for retrieval.",
+        "verb": "",
+        "adjective": ""
+      },
+      "synonym": {
+        "noun": "ability to remember, recollection, commemoration, memory bank, storage, remembering, retentiveness",
+        "verb": "",
+        "adjective": ""
+      },
+      "example": "When the light pulse stops, its information is suspended and stored, just as information is stored in the memory of a computer.",
+      "sound": "sound/singleword/Memory.mp3"
+    }
+  ]
+}
